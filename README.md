@@ -5,11 +5,11 @@ One should enable two factor authentication from google and add an app in the li
 
 Change values for 
 
-mail_id 
-password 
-to_mail_id 
-URL
-my_price
+mail_id,
+password,
+to_mail_id, 
+URL,
+my_price,
 
 and you are good to go.
 
